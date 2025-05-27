@@ -4,9 +4,9 @@
 This is a codebase behind the analysis of the paper: "A joint complex network and machine learning approach for the identification of discriminative gene communities in autistic brain".
 ### Files Provided:
 
-#### 1. **Raw GEO Dataset** (`GSE28475-GPL6883_series_matrix.txt.gz`)
+#### 1. **Raw GEO Dataset** (`GSE28475-*-series_matrix.txt.gz`)
 - **Source:** GEO Series GSE28475 ([NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28475))
-- **Description:** Original expression data from post-mortem frozen and fixed human brain tissues.
+- **Description:** Original expression datasetes from post-mortem frozen and fixed human brain tissues.
 - **Format:** Compressed text file (`.gz`)
 
 #### 2. **Preprocessed Dataset** (`GSE28475_Pre_Processed.RData`)
