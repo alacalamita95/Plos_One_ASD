@@ -5,7 +5,7 @@ This is a codebase behind the analysis of the paper: "A joint complex network an
 ### Files Provided:
 
 #### 1. **Raw GEO Dataset** (`*-series_matrix.txt.gz`)
-- **Source:** GEO Series GSE28475 and GSE28521 ([NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28475)(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28521))
+- **Source:** GEO Series GSE28475 and GSE28521 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28475, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28521)
 - **Description:** Original expression training and test datasetes from post-mortem frozen and fixed human brain tissues.
 - **Format:** Compressed text file (`.gz`)
 
